@@ -1,0 +1,11 @@
+/Users/kseniagustsenko/Desktop/Animal/Animal/bin/Debug/netcoreapp3.0/Animal
+/Users/kseniagustsenko/Desktop/Animal/Animal/bin/Debug/netcoreapp3.0/Animal.deps.json
+/Users/kseniagustsenko/Desktop/Animal/Animal/bin/Debug/netcoreapp3.0/Animal.runtimeconfig.json
+/Users/kseniagustsenko/Desktop/Animal/Animal/bin/Debug/netcoreapp3.0/Animal.runtimeconfig.dev.json
+/Users/kseniagustsenko/Desktop/Animal/Animal/bin/Debug/netcoreapp3.0/Animal.dll
+/Users/kseniagustsenko/Desktop/Animal/Animal/bin/Debug/netcoreapp3.0/Animal.pdb
+/Users/kseniagustsenko/Desktop/Animal/Animal/obj/Debug/netcoreapp3.0/Animal.csprojAssemblyReference.cache
+/Users/kseniagustsenko/Desktop/Animal/Animal/obj/Debug/netcoreapp3.0/Animal.AssemblyInfoInputs.cache
+/Users/kseniagustsenko/Desktop/Animal/Animal/obj/Debug/netcoreapp3.0/Animal.AssemblyInfo.cs
+/Users/kseniagustsenko/Desktop/Animal/Animal/obj/Debug/netcoreapp3.0/Animal.dll
+/Users/kseniagustsenko/Desktop/Animal/Animal/obj/Debug/netcoreapp3.0/Animal.pdb
